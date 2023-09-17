@@ -1,5 +1,5 @@
 ---
-title: 'Taking .NET Game Development in Stride'
+title: 'Talking .NET Game Development in Stride'
 author: youness
 tags: ['Live']
 image: /images/blog/2023-06/netlive.png
